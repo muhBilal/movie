@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "194784712594",
+    "project_id": "finalproject-56080",
+    "storage_bucket": "finalproject-56080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194784712594:android:2fcfc990a43b2752b8534b",
+        "android_client_info": {
+          "package_name": "com.bilal.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194784712594-h2vi4pmrs63rgqe920juutv97bn08s9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38zLMe8i-1hgPRVeeuItNqAp7Aul_r1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194784712594-h2vi4pmrs63rgqe920juutv97bn08s9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/bars_solid.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_notifications_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable-v24/ic_home.xml" value="0.1945" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable-v24/ic_love.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable-v24/ic_profile.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable-v24/ic_search.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.115" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1885" />
+        <entry key="app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_baseline_local_movies_24.xml" value="0.1885" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.198" />
+        <entry key="app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1885" />
+        <entry key="app/src/main/res/drawable/ic_facebook.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/round_btn.xml" value="0.1885" />
+        <entry key="app/src/main/res/drawable/switch_trcks.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/switch_tumbs.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_layout_movie.xml" value="0.29140625" />
+        <entry key="app/src/main/res/layout/activity_detail_movie.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_layout_movie.xml" value="0.35104166666666664" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.3515625" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.3729166666666667" />
+        <entry key="app/src/main/res/layout/activity_wait.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/slide_item_container.xml" value="0.35052083333333334" />
+        <entry key="app/src/main/res/layout/tv_show_layout_adapter.xml" value="0.3515625" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.3359375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
